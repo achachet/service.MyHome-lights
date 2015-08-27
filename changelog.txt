@@ -1,0 +1,7 @@
+[B]0.0.2 - 21SEP2011[/B]
+- Initial release for My Home Bticino
+- Added: Category [I]HOST[/I].
+
+
+[B]0.0.1 - 16SEP2011[/B]
+- Initial release for X-10

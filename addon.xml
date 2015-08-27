@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+    Document   : addon.xml
+    Package    : Bticino Commander Lights
+    Author     : Majestic Soft / Sdomotica
+    Copyright  : 2011, Majestic Soft, NL / Sdomotica
+    License    : Gnu General Public License - see LICENSE.TXT
+    Description: Addon details for Bticino Commander Lights
+-->
+<addon id="service.MyHome-lights"
+       name="Bticino Commander Lights"
+       version="0.0.1"
+       provider-name="Sdomotica">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.service"
+            library="default.py" start="login|startup">
+        <provides>service</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Bticino Commander Lights</summary>
+    <summary lang="it">Scenari Bticino My Home</summary>
+    <description>Controls Bticino My Home lights during watching of a video, via Bticino's Gateway (F452, F453, F453AV, MH200, MH200N).
+    </description>
+    <description lang="it">Controllare l'illuminazione My Home Bticino durante il playback dei video, attraverso i Gatewey Bticino (F452, F453, F453AV, MH200, MH200N).
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>

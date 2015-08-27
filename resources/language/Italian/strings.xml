@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Document   : settings.xml
+    Package    : X10 Commander Lights
+    Author     : Majestic Soft
+    Copyright  : 2011, Majestic Soft, NL
+    License    : Gnu General Public License - see LICENSE.TXT
+    Description: English language strings for X10 Commander Lights
+-->
+<strings>
+    <!-- Addon Settings Categories -->
+	<string id="30000">Indirizzo IP</string>
+	<string id="30001">Porta</string>
+    <string id="50500">Gateway BT</string>
+    <string id="50501">Avvio</string>
+    <string id="50502">Uscita</string>
+    <string id="50503">Play</string>
+    <string id="50504">Stop</string>
+    <string id="50505">Pause</string>
+    <string id="50506">Resume</string>
+    <string id="50507">End</string>
+    <!-- Addon Settings  -->
+    <string id="60000">Cosa</string>
+    <string id="60001">Chi</string>	
+    <!-- Prove  -->
+</strings>
